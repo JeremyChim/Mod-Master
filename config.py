@@ -1,0 +1,1 @@
+npc_file_path = "npc/heroes"
